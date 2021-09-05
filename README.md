@@ -7,5 +7,6 @@ This uids.py is a python script to perform above operation using console based a
 <img width="960" alt="uids output" src="https://user-images.githubusercontent.com/6546568/132135343-81764576-ac01-4a04-ad33-5f83ba58fe61.png">
 
 Input and Output files example:
+
 <img width="346" alt="file output and input" src="https://user-images.githubusercontent.com/6546568/132135362-53fd6557-f382-46f7-8cf5-dad942bd79d3.png">
 
