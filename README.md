@@ -1,4 +1,4 @@
-# Python_training_project
+# UIDS Operations Python_training_project
 Intersection, Union and symmetric difference of two data sets using Python.
 
 <img width="960" alt="uids help" src="https://user-images.githubusercontent.com/6546568/132135252-1f2345f3-ab46-4ba6-bdcb-0d25c0aab905.png">
